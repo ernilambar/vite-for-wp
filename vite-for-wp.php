@@ -1,6 +1,7 @@
 <?php
 /**
  * Vite integration for WordPress
+ * Nice comment
  *
  * @package ViteForWp
  */
